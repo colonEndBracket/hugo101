@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Base16 on Hugo 101</title>
+    <title>Base16 on Eric&#39;s Hugo Blog</title>
     <link>https://hugo101.netlify.com/categories/base16/</link>
-    <description>Recent content in Base16 on Hugo 101</description>
+    <description>Recent content in Base16 on Eric&#39;s Hugo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Mar 2019 07:13:19 +0100</lastBuildDate>
