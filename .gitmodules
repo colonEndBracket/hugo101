@@ -1,3 +1,9 @@
 [submodule "themes/hugo-base16-theme"]
     path = themes/hugo-base16-theme
     url = https://github.com/htdvisser/hugo-base16-theme
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
+[submodule "themes/npq-hugo"]
+	path = themes/npq-hugo
+	url = https://github.com/ahmedsaadxyzz/npq-hugo
