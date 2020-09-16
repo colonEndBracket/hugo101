@@ -1,6 +1,6 @@
 baseURL = "https://www.ericiniguez.site"
 languageCode = "en-us"
-title = "Eric's New Hugo Blog
+title = "Eric's New Hugo Blog"
 copyright = "Copyright  2020, Eric"
 theme = "npq-hugo"
 pygmentsUseClasses=true
