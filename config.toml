@@ -1,4 +1,4 @@
 baseURL = "https://ericiniguez.site"
 languageCode = "en-us"
 title = "Eric's Hugo Blog"
-theme = "npq-hugo"
+theme = "anatole"
